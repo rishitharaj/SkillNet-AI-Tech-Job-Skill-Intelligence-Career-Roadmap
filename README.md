@@ -53,6 +53,12 @@ Job Scraper -> Raw Dataset (CSV) -> Data Cleaning & Preprocessing -> Skill Label
 - 🎯 Structured GenAI outputs (controlled prompting)
 - 🖥️ Interactive dashboard
 
+### Screenshot of Application
+
+<img width="1800" height="806" alt="image" src="https://github.com/user-attachments/assets/81dbaf49-a995-4503-9cdd-e62e5577fe5a" />
+<img width="1800" height="766" alt="image" src="https://github.com/user-attachments/assets/9854c403-ba1a-4a66-976e-84161a3641b4" />
+
+
 ## 🧠 Future Improvements
 - Skill gap analysis (user → target role)
 - Resume-based skill extraction
